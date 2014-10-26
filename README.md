@@ -1,9 +1,9 @@
 GettingandCleaningData_CourseProject
 ====================================
-##Getting and Cleaning Data Project
+##Repo for the submission of the course project for Getting and Cleaning Data Coursera course
+
 Michelle Mengxi Li
 
-##Repo for the submission of the course project for Getting and Cleaning Data Coursera course
 
 ###Overview
 
